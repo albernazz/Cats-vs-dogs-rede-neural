@@ -4,7 +4,7 @@ Este repositório contém um projeto de classificação de imagens de gatos e c�
 
 ## Requisitos
 
-Certifique-se de ter o ambiente Python 3.x configurado corretamente e instale as dependências necessárias:
+Certifique-se de ter o ambiente Python 3.x configurado corretamente e instale as dependências necessárias (caso não queira, faça como eu e use o **colab**):
 
 - **Python 3.x**
 - **TensorFlow**: Biblioteca principal para construção e treinamento de redes neurais.
