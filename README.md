@@ -13,5 +13,3 @@ Certifique-se de ter o ambiente Python 3.x configurado corretamente e instale as
 - **Pandas**: Para manipulação e análise de dados.
 - **NumPy**: Biblioteca para operações matemáticas e manipulação de arrays.
 
-## Você pode instalar os pacotes necessários executando:
-pip install tensorflow matplotlib pandas numpy
